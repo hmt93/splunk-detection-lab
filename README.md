@@ -47,7 +47,7 @@ The goal was to understand how attacks actually work in order to build better de
 - Configured inputs.conf to forward event logs
 - Verified log ingestion in Splunk
 
-### **Step 4: Attack Execution & Detection**
+### **Step 4: Execution & Detection**
 - Ran Nmap scans from Kali Linux
 - Monitored log ingestion in real-time
 - Tested SPL detection queries
