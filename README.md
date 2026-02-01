@@ -52,6 +52,4 @@ The goal was to understand how attacks actually work in order to build better de
 - Monitored log ingestion in real-time
 - Tested SPL detection queries
 
-## Disclaimer
-
-This lab environment is for **educational purposes only**. All attacks were conducted in an isolated, controlled environment with no connection to production systems or networks.
+**Disclaimer:-** This lab environment is for **educational purposes only**. All attacks were conducted in an isolated, controlled environment with no connection to production systems or networks.
