@@ -44,6 +44,7 @@ The goal was to understand how attacks actually work in order to build better de
 
 ### **Step 3: Log Forwarding Setup**
 - Installed Splunk Universal Forwarder on Windows 10 target
+- Installed and configured Sysmon to generate detailed endpoint logs
 - Configured inputs.conf to forward event logs
 - Verified log ingestion in Splunk
 
